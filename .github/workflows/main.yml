@@ -26,7 +26,7 @@ jobs:
         dir
         rm -rf index.html
         echo '<body>' > index.html
-        python -m markdown2 ./readme.md >> index.html
+        python -m markdown2 --extras toc,footnotes ./readme.md >> index.html
         echo '</body>' >> index.html
     - name: Commit files
       id: commit
