@@ -25,9 +25,9 @@ jobs:
       run: |
         dir
         rm -rf index.html
-        echo '<body>' > index.html
+        echo "<!DOCTYPE html><html><head><title>鱼干群档案馆</title></head><body>" > index.html
         python -m markdown2 --extras toc,footnotes ./readme.md >> index.html
-        echo '</body>' >> index.html
+        echo '</body></html>' >> index.html
     - name: Commit files
       id: commit
       run: |
