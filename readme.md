@@ -12,5 +12,7 @@
 ## 群友文艺
 [唯剑而已](https://m.qidian.com/book/1025458662) 带带白金之星
 
+[极乐之梦](https://github.com/trotsky1997/elysium_dream) 带师
+
 
 ## 备用群
