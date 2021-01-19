@@ -2,13 +2,11 @@
 
 ## 当前主群
 
-<div style='height: 100%; width: 100%; object-fit: contain'>
 
 ![](2021-01-19-00-49-58.png)
 
 请扫码加入.
 
-</div>
 
 ## 好活精选
 
