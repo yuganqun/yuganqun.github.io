@@ -1,0 +1,17 @@
+a:link,a:hover.normal
+{ font-weight: bold;
+   
+    color:purple;
+    text-decoration:none;
+    text-align:center;
+    font-size:large;}
+    a:visited,a:active.normal
+    {
+        color: blueviolet;
+    }
+div.one{width: 300px;height: 300px;position: absolute;top:224px;left: 30%;}
+div.two{width: 300px;height: 300px;position: absolute;top:224px;left: 65%;}
+div.three{width: 300px;height: 300px;position: absolute;top:524px;left: 30%;}
+div.four{width: 300px;height: 300px;position: absolute;top:524px;left: 65%;}
+div.five{width: 300px;height: 300px;position: absolute;top:524px;left: 60%;}
+P{}
